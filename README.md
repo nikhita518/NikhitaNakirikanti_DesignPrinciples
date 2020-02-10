@@ -1,7 +1,7 @@
 # Epam Week-3 Project
 
-Project done in Maven by implementing the SOLID KISS and DRY principles
-Maven Project Creation Process:
+- Project done in Maven by implementing the SOLID KISS and DRY principles
+- Maven Project Creation Process:
 **Step 1:** *Checking the installation of Maven in the system*
 ```s
 mvn --version
