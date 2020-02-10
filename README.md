@@ -8,7 +8,7 @@ mvn --version
 ```
 **Step 2:** *Creating Maven project through command line*
 ```s
-mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.mycompany.calculator -DartifactId=calculator -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 ```
 **Step 3:** *Build the Maven Project*
 ```s
